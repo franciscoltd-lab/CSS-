@@ -1,0 +1,24 @@
+body{
+    background-image: url(img/patron.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    text-align: justify;
+    
+}
+
+h1{
+    background-color: aqua;
+    border: 10px solid black;
+    text-align: center;
+}
+
+h2{
+    background-color: #fff;
+    border: 5px solid black;
+}
+
+p{
+    font-size: 20px;
+    color: white;
+}
